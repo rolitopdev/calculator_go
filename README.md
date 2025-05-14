@@ -20,3 +20,4 @@ Levanta un servidor local en el puerto `6001` con un endpoint `/operacion`, que 
 ```bash
 git clone https://github.com/rolitopdev/calculator_go.git
 cd calculator_go
+go run main.go
