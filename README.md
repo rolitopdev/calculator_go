@@ -1,6 +1,6 @@
 # 🧮 Mini API en Go para Operaciones Matemáticas
 
-¡Hola! 👋 Este es un mini proyecto hecho en Go (Golang) que levanta un servidor web básico para hacer operaciones matemáticas simples (suma, resta, multiplicación y división). Ideal si estás aprendiendo cómo funcionan los servidores en Go o si simplemente quieres una API ligera para practicar.
+¡Hola! 👋 Este es un mini proyecto hecho en Go (Golang) que levanta un servidor web básico para hacer operaciones matemáticas simples (suma, resta, multiplicación y división).
 
 ## 🚀 ¿Qué hace?
 
